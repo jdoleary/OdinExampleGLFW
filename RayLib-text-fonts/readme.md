@@ -1,0 +1,1 @@
+Run `odin run .` to run program
